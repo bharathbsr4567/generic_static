@@ -1,0 +1,20 @@
+h1{
+    color: ghostwhite;
+    background-color: black;
+    text-align: center;
+    cursor: all-scroll;
+}
+img{
+    width: 250px;
+    height: 250px;
+    cursor: zoom-in;
+}
+body{
+    background-color:black;
+    cursor: crosshair;
+    
+}
+p{
+    color: ghostwhite;
+    cursor: progress;
+}
